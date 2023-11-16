@@ -1,0 +1,24 @@
+Nama  : Nizar Zul Islami
+NIM   : 22416255201074
+Kelas : IF22C
+UTS Pemograman Web
+
+SUB-CMK-1
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+   jawaban :  Framework dalam pengembangan aplikasi adalah seperti kerangka kerja atau panduan yang membantu pengembang membuat aplikasi lebih mudah dan efisien.
+	      Framework menyediakan aturan dan alat yang membantu pengembang dalam mengorganisir dan membuat aplikasi tanpa harus repot mengurus detail - detail teknis
+   	      yang sama setiap waktu. contoh : laravel untuk pengembangan aplikasi web dengan menggunakan bahasa pemograman PHP. ini adalah alat yang membantu
+	      pengembang membuat situs web dengan cepat tanpa harus membuat semua kodenya dari awal.
+SUB-CPMK-2
+2. 	1. Sebutkan tema proyek yang sedang digarap!
+	   jawaban : - instansi perusahaan(Aplikasi Help Center/PPID - Pengajuan complain kerusakan,dsb)
+	2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+	   jawaban : - Reffi Fauzi : Database
+		     - Nizar Zul Islami : Analisis Laporan
+		     - Amir Syahrul Ramadhan : coding  
+	3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah 	 	   dimengerti, bukan secara harfiah/istilah)
+	   jawaban : jadi setelah kita wawancara bersama client,permasalahan yang kita dapat adalah client meminta agar aplikasinya menampilkan fitur store,servis,about 		     dan history.Adapun penjelasan dari fitur fitur tersebut sebagai berikut:
+		    - store : berisi barang yang mereka jual, dan setelah customer check out barang tersebut,terdapat metode pembayaran.
+		    - servis : berisi keluhan pada laptop customer,yang dimana nanti admin akan menjawab keluhan tersebut.
+		    - history : berisi history pemesanan barang,servis barang dan transaksi.
+		    - about : berisi tentang deskripsi perusahaan client. 
